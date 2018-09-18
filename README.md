@@ -1,4 +1,4 @@
-# Surfs_up_bro
+# Surfs_up_Mr.Data
 
 So I've never been to Hawaii before and I am as excited to go as I am worried about the weather. San Diego, where I'm from, doasn't get a lot of rain, and when we do it washes away everyones ability to drive. You would think the roads were covered in ice and everyones tires were as bald as Sir Patrick Stewart. <img align="right" src="picard.jpg" width="150"> Well I watched a lot, and I mean A LOT, of Star Trek:TNG, and some of that shows' science wore off on me. Now I can't just say "Computer" (sounds like "Com-pew-ta") and have the ship tell me the answer to whatever I ask (AI goals for Hey Alexa) like they do on the Enterprise... 
 <img align="right" src="precipitation.png" width="450">
