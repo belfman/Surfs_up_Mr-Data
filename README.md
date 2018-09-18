@@ -9,4 +9,6 @@ And the fun doasn't end there. I also created an image to help me see the temper
 <img align="left" src="images/histogram.png" width="450"> 
 
 
+
+
 Finally I wanted to see what the average temperature would be for my trip, including highs and lows. All that rain combined with high temps reaching into 90's means hot and humid. <img align="right" src="images/Trip_Avg_Temp.png" width="150"> And I know excactly what to do in that type of weather: stay in my hotel room, call up some room service, and hang out with my fav character __Data__. At least I wont be the palest guy on the island! __Mahalo!!!__<img align="bottom" src="images/tng-data.jpg" width="200">  
